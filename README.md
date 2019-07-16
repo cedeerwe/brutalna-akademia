@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cedeerwe/slobodna-akademia/master)
+
 # Slobodná akadémia
 
 Zatiaľ je celý dokument Work-in-Progress.
