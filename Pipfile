@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 plotly = "*"
 jupyter-contrib-nbextensions = "*"
+numpy = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.6"
