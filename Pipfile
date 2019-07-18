@@ -10,6 +10,7 @@ plotly = "*"
 jupyter-contrib-nbextensions = "*"
 numpy = "*"
 pandas = "*"
+graphviz = "*"
 
 [requires]
 python_version = "3.6"
