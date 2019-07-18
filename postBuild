@@ -1,4 +1,6 @@
 jupyter contrib nbextension install --user
 jupyter nbextension enable collapsible_headings/main
 
-jupyter trust test123.ipynb
+jupyter trust notebooks/Dice.ipynb
+jupyter trust notebooks/Coins.ipynb
+jupyter trust notebooks/HadzanieMincou.ipynb
