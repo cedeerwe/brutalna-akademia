@@ -22,7 +22,7 @@ Vítame použitie technológii a programovacích jazykov vo vyučovaní a v rie�
 
 ### Soft Skills
 
-Vyriešenie problému je v praxi málokedy koniec úlohy a preto dbáme na to, aby naši študenti svoje riešenia vedeli odprezentovať ostatným a diskutovať o nich. Študenti si vuskúšajú prácu samostatne, v skupinách alebo súťaživo proti ostatným. Učíme ich pracovať so svojou chybou, kriticky sa pozerať na svet a motivujeme ich nebáť sa skúmať svoje nápady.
+Vyriešenie problému je v praxi málokedy koniec úlohy a preto dbáme na to, aby naši študenti svoje riešenia vedeli odprezentovať ostatným a diskutovať o nich. Študenti si vyskúšajú prácu samostatne, v skupinách alebo súťaživo proti ostatným. Učíme ich pracovať so svojou chybou, kriticky sa pozerať na svet a motivujeme ich nebáť sa skúmať svoje nápady.
 
 
 ## Ponúkané kurzy
