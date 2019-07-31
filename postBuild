@@ -1,5 +1,5 @@
 jupyter contrib nbextension install --user
-jupyter nbextension enable collapsible_headings/main
+jupyter nbextension enable exercise2/main
 
 jupyter trust notebooks/Dice.ipynb
 jupyter trust notebooks/Coins.ipynb
