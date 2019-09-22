@@ -1,6 +1,0 @@
-jupyter contrib nbextension install --user
-jupyter nbextension enable exercise2/main
-
-jupyter trust notebooks/01_hadzanie_mincou.ipynb
-jupyter trust notebooks/02_suboj_minci.ipynb
-jupyter trust notebooks/03_suboj_minci2.ipynb
