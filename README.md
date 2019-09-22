@@ -34,7 +34,7 @@ V prípade úspešného prvého roku plánujeme v tejto iniciatíve pokračovať
 
 ## Ukážková hodina
 
-Na vrchu tohto textu môžte nájsť tlačítko `Open in colab`, ktoré vám spustí interaktívne programovacie prostredie Google Colaboratory. Ak ste sa s týmto prostredím ešte nestretli, odporúčame [online tutorial](https://colab.research.google.com/notebooks/welcome.ipynb) na jeho používanie.
+Na vrchu tohto textu môžte nájsť tlačítko [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cedeerwe/brutalna-akademia), ktoré vám spustí interaktívne programovacie prostredie Google Colaboratory. Ak ste sa s týmto prostredím ešte nestretli, odporúčame [online tutorial](https://colab.research.google.com/notebooks/welcome.ipynb) na jeho používanie.
 
 V rámci tohto prostredia si otvorte súbor `notebooks/01_hadzanie_mincou.ipynb` a môžte si prejsť našu prvú hodinu. Postupom času ich v rámci priečinka `notebooks` bude pribúdať viac a viac.
 
