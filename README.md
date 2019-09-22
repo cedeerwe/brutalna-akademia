@@ -1,5 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cedeerwe/brutalna-akademia/master)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cedeerwe/brutalna-akademia)
 # Brutálna akadémia
 
 Vitajte na stránke brutálnej akadémie. Cieľom našej akadémie je modernou formu ponúknuť praktické vzdelanie v oblastiach blízkych matematike.
@@ -35,12 +34,12 @@ V prípade úspešného prvého roku plánujeme v tejto iniciatíve pokračovať
 
 ## Ukážková hodina
 
-Na vrchu tohto textu môžte nájsť tlačítko `Launch`, ktoré vám spustí interaktívne programovacie prostredie Jupyter v cloude. Ak ste sa s týmto prostredím ešte nestretli, odporúčame [hociktorý](https://realpython.com/jupyter-notebook-introduction/) z [mnohých](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) [online tutorialov](https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a) na jeho používanie.
+Na vrchu tohto textu môžte nájsť tlačítko `Open in colab`, ktoré vám spustí interaktívne programovacie prostredie Google Colaboratory. Ak ste sa s týmto prostredím ešte nestretli, odporúčame [online tutorial](https://colab.research.google.com/notebooks/welcome.ipynb) na jeho používanie.
 
-V rámci tohto prostredia si otvorte súbor `notebooks/HadzanieMincou.ipynb` a môžte si prejsť našu ukážkovú hodinu. Postupom času ich v rámci priečinka `notebooks` bude pribúdať viac a viac.
+V rámci tohto prostredia si otvorte súbor `notebooks/01_hadzanie_mincou.ipynb` a môžte si prejsť našu prvú hodinu. Postupom času ich v rámci priečinka `notebooks` bude pribúdať viac a viac.
 
 ## Dlhodobá vízia
 
 V súčasnej dobe sa často stáva, že absolventi stredných a vysokých škôl strávili veľa času učením sa poznatkov, ktoré z veľkej časti zabudnú alebo ich nebudú nikdy potrebovať. Naša hypotéza je, že ak by sme sa sústredili len na témy, ktoré absolventi budú potrebovať a nezabudnú ich, mohli by sme študentov ponúknuť všetky vedomosti a zručnosti v intenzívnejšej forme za omnoho kratší čas, napríklad 1-2 roky. Certifikát o absolvovaní našej akadémie síce nikdy nebude podložený oficiálnym titulom, ale v spolupráci s firmami by sme radi zaručili, aby sa absolventi brutálnej akadémie vedeli zamestnať rovnako dobre, ako absolventi vyššieho vzdelania.
 
-Naša odvážna dlhodobá vízia je ponúkať doplnkové štúdium počas strednej školy a plnohodnotné denné štúdium ako alternatívu k vysokým školám. Naša súčasná vízia sa môže meniť skúsenosťami s akadémiou.
+Naša odvážna dlhodobá vízia je ponúkať doplnkové štúdium počas strednej školy a plnohodnotné denné štúdium ako alternatívu k vysokým školám. Naša vízia sa môže meniť skúsenosťami s akadémiou.
